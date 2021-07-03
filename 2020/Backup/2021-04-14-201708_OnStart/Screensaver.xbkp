@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.42</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>25 ms</sequenceTiming>
+    <sequenceType>Animation</sequenceType>
+    <mediaFile></mediaFile>
+    <sequenceDuration>1033</sequenceDuration>
+    <imageDir/>
+  </head>
+  <nextid>1</nextid>
+  <Jukebox/>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette4=1,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF80,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF80,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#004000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF80,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF80,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FF0080,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#004000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#004000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#C9BDB6,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#804000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#804000,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette7=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#804040,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#00FF00,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette5=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette3=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#FFFFFF,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#0000FF,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette4=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Chase_3dFade1=0,E_CHECKBOX_Chase_Group_All=0,E_CHOICE_Chase_Type1=Left-Right,E_CHOICE_SingleStrand_Colors=Palette,E_CHOICE_Skips_Direction=Right,E_NOTEBOOK_SSEFFECT_TYPE=Chase,E_SLIDER_Color_Mix1=10,E_SLIDER_Number_Chases=9,E_SLIDER_Skips_Advance=100,E_SLIDER_Skips_BandSize=12,E_SLIDER_Skips_SkipSize=1,E_SLIDER_Skips_StartPos=1,E_TEXTCTRL_Chase_Rotations=7.4,T_SLIDER_EffectLayerMix=4</Effect>
+    <Effect>E_CHECKBOX_Strobe_Music=0,E_SLIDER_Number_Strobes=281,E_SLIDER_Strobe_Duration=10,E_SLIDER_Strobe_Type=1,T_SLIDER_EffectLayerMix=4</Effect>
+    <Effect>B_CHOICE_BufferStyle=As Pixel,T_CHOICE_LayerMethod=1 is Mask,T_SLIDER_EffectLayerMix=2</Effect>
+    <Effect></Effect>
+    <Effect>E_CHOICE_Falling=Driving,E_SLIDER_Snowflakes_Count=12,E_SLIDER_Snowflakes_Speed=30,E_SLIDER_Snowflakes_Type=1</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Position=100,E_SLIDER_Fill_Skip_Size=0,T_CHECKBOX_Canvas=1</Effect>
+    <Effect>E_CHECKBOX_Fill_Color_Time=0,E_CHECKBOX_Fill_Offset_In_Pixels=1,E_CHECKBOX_Fill_Wrap=1,E_CHOICE_Fill_Direction=Up,E_SLIDER_Fill_Band_Size=0,E_SLIDER_Fill_Offset=0,E_SLIDER_Fill_Position=100,E_SLIDER_Fill_Skip_Size=0</Effect>
+    <Effect>E_CHECKBOX_Twinkle_ReRandom=1,E_CHECKBOX_Twinkle_Strobe=0,E_SLIDER_Twinkle_Count=100,E_SLIDER_Twinkle_Steps=30,T_SLIDER_EffectLayerMix=4</Effect>
+    <Effect>E_CHECKBOX_TextToCenter=0,E_CHECKBOX_Text_PixelOffsets=0,E_CHOICE_Text_Count=minutes seconds,E_CHOICE_Text_Dir=none,E_CHOICE_Text_Effect=normal,E_CHOICE_Text_Font=Use OS Fonts,E_FONTPICKER_Text_Font=bold 'segoe ui' windows-1252,E_SLIDER_Text_XEnd=0,E_SLIDER_Text_XStart=4,E_SLIDER_Text_YEnd=0,E_SLIDER_Text_YStart=0,E_TEXTCTRL_Text=17:13,E_TEXTCTRL_Text_Speed=50,T_SLIDER_EffectLayerMix=4</Effect>
+    <Effect>E_CHECKBOX_Fire_GrowWithMusic=0,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_Height=17,E_SLIDER_Fire_HueShift=0,E_TEXTCTRL_Fire_GrowthCycles=0.0,T_SLIDER_EffectLayerMix=4</Effect>
+    <Effect>E_CHECKBOX_Tree_ShowLights=1,E_SLIDER_Tree_Branches=3,E_SLIDER_Tree_Speed=10,T_SLIDER_EffectLayerMix=4</Effect>
+    <Effect>T_SLIDER_EffectLayerMix=4</Effect>
+    <Effect>E_CHECKBOX_Marquee_PixelOffsets=0,E_CHECKBOX_Marquee_Reverse=0,E_CHECKBOX_Marquee_WrapX=0,E_CHECKBOX_Marquee_WrapY=0,E_NOTEBOOK_Marquee=Settings,E_SLIDER_MarqueeXC=0,E_SLIDER_MarqueeYC=0,E_SLIDER_Marquee_Band_Size=54,E_SLIDER_Marquee_ScaleX=100,E_SLIDER_Marquee_ScaleY=100,E_SLIDER_Marquee_Skip_Size=0,E_SLIDER_Marquee_Speed=21,E_SLIDER_Marquee_Stagger=38,E_SLIDER_Marquee_Start=0,E_SLIDER_Marquee_Thickness=1,T_SLIDER_EffectLayerMix=4</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="0" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View,Trees,Groups,Santa and Reindeer,Spinners,Snowflakes,Arches" active="1"/>
+    <Element collapsed="0" type="model" name="All" visible="1"/>
+    <Element collapsed="0" type="model" name="Archess" visible="1"/>
+    <Element collapsed="0" type="model" name="Front" visible="1"/>
+    <Element collapsed="0" type="model" name="Front Yard" visible="1"/>
+    <Element collapsed="0" type="model" name="Santa and Reindeer" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflakes" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-5" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-6" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-7" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Snowflake-4" visible="1"/>
+    <Element collapsed="0" type="model" name="Boscoyo Santa Sleigh" visible="1"/>
+    <Element collapsed="0" type="model" name="Deer 01" visible="1"/>
+    <Element collapsed="0" type="model" name="Deer 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Deer 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Star" visible="1"/>
+    <Element collapsed="0" type="model" name="Tree" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-2" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches-3" visible="1"/>
+    <Element collapsed="0" type="model" name="Arches" visible="1"/>
+    <Element collapsed="0" type="model" name="Penguin" visible="1"/>
+    <Element collapsed="0" type="model" name="Penguin 2" visible="1"/>
+    <Element collapsed="0" type="model" name="Penguin 3" visible="1"/>
+    <Element collapsed="0" type="model" name="Penguins" visible="1"/>
+    <Element collapsed="0" type="model" name="Roof Outline" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer>
+        <Effect label="" startTime="0" endTime="1033000"></Effect>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="All">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Archess">
+      <EffectLayer>
+        <Effect ref="0" name="SingleStrand" startTime="0" endTime="1035600" palette="0"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Front">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Front Yard">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Santa and Reindeer">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflakes">
+      <EffectLayer>
+        <Effect ref="1" name="Strobe" startTime="0" endTime="1105200" palette="1"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-5">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-6">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-7">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Snowflake-4">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Boscoyo Santa Sleigh">
+      <EffectLayer/>
+      <SubModelEffectLayer name="Skies">
+        <Effect ref="2" name="On" startTime="0" endTime="1040400" palette="2"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Sleigh Body">
+        <Effect ref="3" name="On" startTime="0" endTime="1051200" palette="3"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Toy Bag">
+        <Effect ref="3" name="On" startTime="0" endTime="1075200" palette="4"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Ribbon on Toy Bag">
+        <Effect ref="4" name="Snowflakes" startTime="0" endTime="1033200" palette="5"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Santa Coat-Hat Red">
+        <Effect ref="3" name="On" startTime="0" endTime="1053600" palette="3"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Santa Coat-Hat White">
+        <Effect ref="3" name="On" startTime="0" endTime="1033200" palette="6"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Santa Beard">
+        <Effect ref="3" name="On" startTime="0" endTime="1039200" palette="6"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Santa Eye">
+        <Effect ref="3" name="On" startTime="0" endTime="1036800" palette="7"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Santa Skin">
+        <Effect ref="3" name="On" startTime="0" endTime="1036800" palette="8"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Rail">
+        <Effect ref="3" name="On" startTime="0" endTime="1068000" palette="9"/>
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Deer 01">
+      <EffectLayer>
+        <Effect ref="5" name="Fill" startTime="0" endTime="1174800" palette="10"/>
+      </EffectLayer>
+      <SubModelEffectLayer name="Collar">
+        <Effect ref="6" name="Fill" startTime="0" endTime="1051200" palette="11"/>
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Deer 2">
+      <EffectLayer>
+        <Effect ref="6" name="Fill" startTime="0" endTime="1048800" palette="10"/>
+      </EffectLayer>
+      <SubModelEffectLayer name="Collar">
+        <Effect ref="6" name="Fill" startTime="0" endTime="1038000" palette="11"/>
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Deer 3">
+      <EffectLayer>
+        <Effect ref="6" name="Fill" startTime="0" endTime="1038000" palette="10"/>
+      </EffectLayer>
+      <SubModelEffectLayer name="Collar">
+        <Effect ref="6" name="Fill" startTime="0" endTime="1038000" palette="11"/>
+      </SubModelEffectLayer>
+      <SubModelEffectLayer name="Nose">
+        <Effect ref="6" name="Fill" selected="1" startTime="0" endTime="1056000" palette="12"/>
+      </SubModelEffectLayer>
+    </Element>
+    <Element type="model" name="Star">
+      <EffectLayer>
+        <Effect ref="7" name="Twinkle" startTime="0" endTime="1040400" palette="13"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Tree">
+      <EffectLayer>
+        <Effect ref="8" name="Text" selected="1" startTime="0" endTime="1033000" palette="14"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="9" name="Fire" startTime="0" endTime="1033000" palette="14"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="10" name="Tree" startTime="0" endTime="1105200" palette="15"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Arches-2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches-3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Arches">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Penguin">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Penguin 2">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Penguin 3">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Penguins">
+      <EffectLayer>
+        <Effect ref="11" name="On" startTime="0" endTime="1041600" palette="14"/>
+      </EffectLayer>
+    </Element>
+    <Element type="model" name="Roof Outline">
+      <EffectLayer>
+        <Effect ref="12" name="Marquee" startTime="0" endTime="1051200" palette="16"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

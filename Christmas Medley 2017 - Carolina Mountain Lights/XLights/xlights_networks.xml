@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Networks computer="FAMILY-PC">
+  <network ComPort="192.168.0.212" BaudRate="1" NetworkType="E131" Description="LOR via DMX" MaxChannels="512"/>
+  <network ComPort="192.168.0.207" BaudRate="2" NetworkType="E131" Description="17x20 Mini Tree 1.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="3" NetworkType="E131" Description="17x20 Mini Tree 1.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="4" NetworkType="E131" Description="17x20 Mini Tree 2.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="5" NetworkType="E131" Description="17x20 Mini Tree 2.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="6" NetworkType="E131" Description="17x20 Mini Tree 3.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="7" NetworkType="E131" Description="17x20 Mini Tree 3.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="8" NetworkType="E131" Description="17x20 Mini Tree 4.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="9" NetworkType="E131" Description="17x20 Mini Tree 4.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="10" NetworkType="E131" Description="17x20 Mini Tree 5.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="11" NetworkType="E131" Description="17x20 Mini Tree 5.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="12" NetworkType="E131" Description="17x20 Mini Tree 6.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="13" NetworkType="E131" Description="17x20 Mini Tree 6.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="14" NetworkType="E131" Description="17x20 Mini Tree 7.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="15" NetworkType="E131" Description="17x20 Mini Tree 7.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="16" NetworkType="E131" Description="17x20 Mini Tree 8.1" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="17" NetworkType="E131" Description="17x20 Mini Tree 8.2" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="104" NetworkType="E131" Description="House Gutter 02" MaxChannels="360"/>
+  <network ComPort="192.168.0.207" BaudRate="105" NetworkType="E131" Description="House Gutter 03" MaxChannels="345"/>
+  <network ComPort="192.168.0.207" BaudRate="106" NetworkType="E131" Description="House Gutter 04" MaxChannels="345"/>
+  <network ComPort="192.168.0.207" BaudRate="107" NetworkType="E131" Description="House Deck Rail" MaxChannels="483"/>
+  <network ComPort="192.168.0.207" BaudRate="103" NetworkType="E131" Description="House Gutter 01" MaxChannels="432"/>
+  <network ComPort="192.168.0.207" BaudRate="108" NetworkType="E131" Description="House Mini Tree 01" MaxChannels="510"/>
+  <network ComPort="192.168.0.207" BaudRate="109" NetworkType="E131" Description="House Mini Tree 02" MaxChannels="510"/>
+  <network ComPort="192.168.0.212" BaudRate="142" NetworkType="E131" Description="Mega Tree Pixel Star 01" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="143" NetworkType="E131" Description="Mega Tree Pixel Star 02" MaxChannels="240"/>
+  <network ComPort="192.168.0.212" BaudRate="144" NetworkType="E131" Description="Mega Tree Pixel Star 03" MaxChannels="360"/>
+  <network ComPort="192.168.0.207" BaudRate="24" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="25" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="26" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="27" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="28" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="29" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="30" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="31" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="32" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="33" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="34" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="35" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="36" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="37" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="38" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="39" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="40" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="41" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="42" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="43" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="44" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="45" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="46" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="47" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="48" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="49" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="50" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="51" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="52" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="53" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="101" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.207" BaudRate="102" NetworkType="E131" Description="Live Tree" MaxChannels="300"/>
+  <network ComPort="192.168.0.208" BaudRate="64" NetworkType="E131" Description="Mega Twig Tree 1.1" MaxChannels="312"/>
+  <network ComPort="192.168.0.208" BaudRate="65" NetworkType="E131" Description="Mega Twig Tree 1.2" MaxChannels="312"/>
+  <network ComPort="192.168.0.208" BaudRate="66" NetworkType="E131" Description="Mega Twig Tree 1.3" MaxChannels="312"/>
+  <network ComPort="192.168.0.208" BaudRate="67" NetworkType="E131" Description="Mega Twig Tree 1.4" MaxChannels="288"/>
+  <network ComPort="192.168.0.208" BaudRate="68" NetworkType="E131" Description="Mega Twig Tree 1.5" MaxChannels="288"/>
+  <network ComPort="192.168.0.208" BaudRate="69" NetworkType="E131" Description="Mega Twig Tree 1.6" MaxChannels="288"/>
+  <network ComPort="192.168.0.208" BaudRate="70" NetworkType="E131" Description="Mega Twig Tree 1.7" MaxChannels="231"/>
+  <network ComPort="192.168.0.208" BaudRate="71" NetworkType="E131" Description="Mega Twig Tree 1.8" MaxChannels="231"/>
+  <network ComPort="192.168.0.208" BaudRate="72" NetworkType="E131" Description="Mega Twig Tree 1.9" MaxChannels="231"/>
+  <network ComPort="192.168.0.208" BaudRate="73" NetworkType="E131" Description="Mega Twig Tree 1.10&amp;amp;11" MaxChannels="420"/>
+  <network ComPort="192.168.0.208" BaudRate="74" NetworkType="E131" Description="Mega Twig Tree 1.12&amp;amp;13" MaxChannels="399"/>
+  <network ComPort="192.168.0.208" BaudRate="75" NetworkType="E131" Description="Mega Twig Tree 1.14&amp;amp;15" MaxChannels="357"/>
+  <network ComPort="192.168.0.208" BaudRate="76" NetworkType="E131" Description="Mega Twig Tree 1.16&amp;amp;17" MaxChannels="288"/>
+  <network ComPort="192.168.0.208" BaudRate="77" NetworkType="E131" Description="Mega Twig Tree 1.18&amp;amp;19" MaxChannels="252"/>
+  <network ComPort="192.168.0.208" BaudRate="78" NetworkType="E131" Description="Mega Twig Tree 1.20-22" MaxChannels="270"/>
+  <network ComPort="192.168.0.208" BaudRate="79" NetworkType="E131" Description="Mega Twig Tree 1.23-28" MaxChannels="246"/>
+  <network ComPort="192.168.0.209" BaudRate="80" NetworkType="E131" Description="Firestick 01" MaxChannels="324"/>
+  <network ComPort="192.168.0.209" BaudRate="81" NetworkType="E131" Description="Firestick 02" MaxChannels="328"/>
+  <network ComPort="192.168.0.209" BaudRate="82" NetworkType="E131" Description="Firestick 03" MaxChannels="324"/>
+  <network ComPort="192.168.0.209" BaudRate="83" NetworkType="E131" Description="Firestick 04" MaxChannels="324"/>
+  <network ComPort="192.168.0.209" BaudRate="84" NetworkType="E131" Description="Firestick 05" MaxChannels="324"/>
+  <network ComPort="192.168.0.209" BaudRate="85" NetworkType="E131" Description="Firestick 06" MaxChannels="324"/>
+  <network ComPort="192.168.0.209" BaudRate="86" NetworkType="E131" Description="Spinner 01" MaxChannels="288"/>
+  <network ComPort="192.168.0.209" BaudRate="87" NetworkType="E131" Description="Spinner 02" MaxChannels="288"/>
+  <network ComPort="192.168.0.209" BaudRate="88" NetworkType="E131" Description="Spinner 03" MaxChannels="288"/>
+  <network ComPort="192.168.0.209" BaudRate="89" NetworkType="E131" Description="Spinner 04" MaxChannels="288"/>
+  <network ComPort="192.168.0.209" BaudRate="90" NetworkType="E131" Description="Spinner 05" MaxChannels="288"/>
+  <network ComPort="192.168.0.209" BaudRate="91" NetworkType="E131" Description="Spinner 06" MaxChannels="288"/>
+  <network ComPort="192.168.0.210" BaudRate="92" NetworkType="E131" Description="Workshop Roof Slope 01" MaxChannels="348"/>
+  <network ComPort="192.168.0.210" BaudRate="93" NetworkType="E131" Description="Workshop Roof Peak 01" MaxChannels="321"/>
+  <network ComPort="192.168.0.210" BaudRate="94" NetworkType="E131" Description="Workshop Roof Peak 02" MaxChannels="321"/>
+  <network ComPort="192.168.0.210" BaudRate="95" NetworkType="E131" Description="Workshop Roof Slope 02" MaxChannels="348"/>
+  <network ComPort="192.168.0.210" BaudRate="96" NetworkType="E131" Description="Workshop Roof Gutter" MaxChannels="321"/>
+  <network ComPort="192.168.0.210" BaudRate="97" NetworkType="E131" Description="Workshop Window 01" MaxChannels="216"/>
+  <network ComPort="192.168.0.210" BaudRate="98" NetworkType="E131" Description="Workshop Window 02" MaxChannels="216"/>
+  <network ComPort="192.168.0.211" BaudRate="110" NetworkType="E131" Description="Mega Twig Tree 2.1" MaxChannels="312"/>
+  <network ComPort="192.168.0.211" BaudRate="111" NetworkType="E131" Description="Mega Twig Tree 2.2" MaxChannels="312"/>
+  <network ComPort="192.168.0.211" BaudRate="112" NetworkType="E131" Description="Mega Twig Tree 2.3" MaxChannels="312"/>
+  <network ComPort="192.168.0.211" BaudRate="113" NetworkType="E131" Description="Mega Twig Tree 2.4" MaxChannels="288"/>
+  <network ComPort="192.168.0.211" BaudRate="114" NetworkType="E131" Description="Mega Twig Tree 2.5" MaxChannels="288"/>
+  <network ComPort="192.168.0.211" BaudRate="115" NetworkType="E131" Description="Mega Twig Tree 2.6" MaxChannels="288"/>
+  <network ComPort="192.168.0.211" BaudRate="116" NetworkType="E131" Description="Mega Twig Tree 2.7" MaxChannels="231"/>
+  <network ComPort="192.168.0.211" BaudRate="117" NetworkType="E131" Description="Mega Twig Tree 2.8" MaxChannels="231"/>
+  <network ComPort="192.168.0.211" BaudRate="118" NetworkType="E131" Description="Mega Twig Tree 2.9" MaxChannels="231"/>
+  <network ComPort="192.168.0.211" BaudRate="119" NetworkType="E131" Description="Mega Twig Tree 2.10&amp;amp;11" MaxChannels="420"/>
+  <network ComPort="192.168.0.211" BaudRate="120" NetworkType="E131" Description="Mega Twig Tree 2.12&amp;amp;13" MaxChannels="399"/>
+  <network ComPort="192.168.0.211" BaudRate="121" NetworkType="E131" Description="Mega Twig Tree 2.14&amp;amp;15" MaxChannels="357"/>
+  <network ComPort="192.168.0.211" BaudRate="122" NetworkType="E131" Description="Mega Twig Tree 2.16&amp;amp;17" MaxChannels="288"/>
+  <network ComPort="192.168.0.211" BaudRate="123" NetworkType="E131" Description="Mega Twig Tree 2.18&amp;amp;19" MaxChannels="252"/>
+  <network ComPort="192.168.0.211" BaudRate="124" NetworkType="E131" Description="Mega Twig Tree 2.20-22" MaxChannels="270"/>
+  <network ComPort="192.168.0.211" BaudRate="125" NetworkType="E131" Description="Mega Twig Tree 2.23-28" MaxChannels="246"/>
+  <network ComPort="192.168.0.212" BaudRate="126" NetworkType="E131" Description="Mega Tree 01" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="127" NetworkType="E131" Description="Mega Tree 02" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="128" NetworkType="E131" Description="Mega Tree 03" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="129" NetworkType="E131" Description="Mega Tree 04" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="130" NetworkType="E131" Description="Mega Tree 05" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="131" NetworkType="E131" Description="Mega Tree 06" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="132" NetworkType="E131" Description="Mega Tree 07" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="133" NetworkType="E131" Description="Mega Tree 08" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="134" NetworkType="E131" Description="Mega Tree 09" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="135" NetworkType="E131" Description="Mega Tree 10" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="136" NetworkType="E131" Description="Mega Tree 11" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="137" NetworkType="E131" Description="Mega Tree 12" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="138" NetworkType="E131" Description="Mega Tree 13" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="139" NetworkType="E131" Description="Mega Tree 14" MaxChannels="450"/>
+  <network ComPort="192.168.0.212" BaudRate="145" NetworkType="E131" Description="Dancing Circle 01" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="146" NetworkType="E131" Description="Dancing Circle 02" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="147" NetworkType="E131" Description="Dancing Circle 03" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="148" NetworkType="E131" Description="Dancing Circle 04" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="149" NetworkType="E131" Description="Dancing Circle 05" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="150" NetworkType="E131" Description="Dancing Circle 06" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="151" NetworkType="E131" Description="Dancing Circle 07" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="152" NetworkType="E131" Description="Dancing Circle 08" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="153" NetworkType="E131" Description="Dancing Circle 09" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="154" NetworkType="E131" Description="Dancing Circle 10" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="155" NetworkType="E131" Description="Dancing Circle 11" MaxChannels="300"/>
+  <network ComPort="192.168.0.212" BaudRate="156" NetworkType="E131" Description="Dancing Circle 12" MaxChannels="300"/>
+</Networks>

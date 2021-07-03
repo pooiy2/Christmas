@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm2="10" Hollow="20" Arc="360" LayoutGroup="Default" name="Spinner-4" parm3="10" WorldPosX="803.3113" WorldPosY="2352.6348" WorldPosZ="0.0000" ScaleX="10.7323" ScaleY="5.5560" ScaleZ="0.0385" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Spinner-3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="10" Hollow="20" Arc="360" LayoutGroup="Default" name="Spinner-2" parm3="10" parm1="1" WorldPosX="2213.8972" WorldPosY="2339.8499" WorldPosZ="0.0000" ScaleX="10.7323" ScaleY="5.5560" ScaleZ="0.0385" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Spinner:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Spinner" parm2="10" Hollow="20" Arc="360" LayoutGroup="Default" parm3="10" WorldPosX="1752.2483" WorldPosY="2337.2219" WorldPosZ="0.0000" ScaleX="10.7323" ScaleY="5.5560" ScaleZ="0.0385" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Star:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Star" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Star" parm3="5" LayoutGroup="Default" starRatio="2.670000" LayerSizes="60,40" parm2="100" WorldPosX="3002.8787" WorldPosY="2630.6426" WorldPosZ="0.0000" ScaleX="5.5899" ScaleY="5.7407" ScaleZ="4.9792" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree-5:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="50" DisplayAs="Tree 360" LayoutGroup="Default" name="Tree-5" TreeSpiralRotations="5.000000" parm3="1" parm1="1" WorldPosX="3612.0576" WorldPosY="982.5745" WorldPosZ="0.0000" ScaleX="2.9683" ScaleY="2.1739" ScaleZ="2.9683" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Tree-4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="50" name="Tree-2" LayoutGroup="Default" parm1="1" TreeSpiralRotations="5.000000" TreeRotation="2.000000" DisplayAs="Tree 360" parm3="1" WorldPosX="2762.7942" WorldPosY="1023.7797" WorldPosZ="0.0000" ScaleX="2.9683" ScaleY="2.1739" ScaleZ="2.9683" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Matrix-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="50" LayoutGroup="Default" name="Tree-3" TreePerspective="0.200000" parm1="1" parm3="1" TreeRotation="2.000000" DisplayAs="Tree 360" TreeSpiralRotations="5.000000" WorldPosX="2336.6470" WorldPosY="1029.1041" WorldPosZ="0.0000" ScaleX="2.9683" ScaleY="2.1739" ScaleZ="2.9683" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Tree-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="50" DisplayAs="Tree 360" LayoutGroup="Default" name="Tree-4" TreeSpiralRotations="5.000000" parm1="1" parm3="1" WorldPosX="3185.6575" WorldPosY="1011.8384" WorldPosZ="0.0000" ScaleX="2.9683" ScaleY="2.1739" ScaleZ="2.9683" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Tree-3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" DisplayAs="Horiz Matrix" LayoutGroup="Default" name="Matrix-2" parm2="50" parm3="2" parm1="8" WorldPosX="991.6758" WorldPosY="1858.7208" WorldPosZ="0.0000" ScaleX="38.6347" ScaleY="23.8227" ScaleZ="0.0417" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-1.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Icicles:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" name="Tree" LayoutGroup="Default" TreePerspective="0.100000" TreeRotation="10.000000" parm2="50" parm1="8" parm3="2" DisplayAs="Tree 270" WorldPosX="3007.6482" WorldPosY="1908.0233" WorldPosZ="0.0000" ScaleX="17.0547" ScaleY="14.7820" ScaleZ="17.0547" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" name="Matrix" DisplayAs="Horiz Matrix" LayoutGroup="Default" parm2="50" parm1="4" parm3="4" WorldPosX="1869.5704" WorldPosY="1843.0503" WorldPosZ="0.0000" ScaleX="42.8393" ScaleY="22.9807" ScaleZ="0.0910" RotateX="0.00000000" RotateY="0.00000000" RotateZ="-1.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Tree:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Icicles" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" parm3="1" name="Icicles" LayoutGroup="Default" DropPattern="5" parm2="210" WorldPosX="308.8071" WorldPosY="2173.4624" WorldPosZ="0.0000" X2="2399.229980" Y2="-16.748535" Z2="0.000000" RotateX="0.00000000" Height="-0.500000" Shear="0.000000" Locked="1" versionNumber="5" StartChannel="&gt;Matrix:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" Hollow="20" Arc="360" LayoutGroup="Default" name="Spinner-3" parm3="10" parm2="10" WorldPosX="1249.3999" WorldPosY="2341.5024" WorldPosZ="0.0000" ScaleX="10.7323" ScaleY="5.5560" ScaleZ="0.0385" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" Locked="1" versionNumber="5" StartChannel="&gt;Spinner-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridWidth="2000.0" GridHeight="1000.0" Active="1" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0006"/>
+  <views/>
+  <palettes/>
+  <modelGroups/>
+  <layoutGroups/>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293500;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6293500;dir=4;layer=1;row=0;pos=1;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=2099198;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=197;besth=157;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099196;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=442;besth=864;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=2099198;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=436;besth=276;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1080;besth=720;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099196;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=390;besth=409;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099196;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=315;besth=335;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099196;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=323;besth=473;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=225;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=32;floaty=32;floatw=338;floath=272|name=Main Sequencer;caption=Main Sequencer;state=768;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=142;besth=62;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|dock_size(4,0,1)=349|dock_size(1,0,0)=128|dock_size(5,0,0)=144|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <previewWidth value="3874"/>
+    <previewHeight value="3000"/>
+    <backgroundImage value="D:\Downloads\PicsArt_09-10-02.18.06.jpg"/>
+    <Display2DCenter0 value="0"/>
+    <scaleImage value="1"/>
+    <backgroundBrightness value="60"/>
+  </settings>
+  <colors>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="0"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="0"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints/>
+</xrgb>

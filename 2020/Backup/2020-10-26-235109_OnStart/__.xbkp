@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsequence BaseChannel="0" ChanCtrlBasic="0" ChanCtrlColor="0" FixedPointTiming="1" ModelBlending="true">
+  <head>
+    <version>2020.42</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website></author-website>
+    <song></song>
+    <artist></artist>
+    <album></album>
+    <MusicURL></MusicURL>
+    <comment></comment>
+    <sequenceTiming>50 ms</sequenceTiming>
+    <sequenceType>Media</sequenceType>
+    <mediaFile>D:\Downloads\Halloween Music Free Download Free Halloween Music MP3 Spook.mp3</mediaFile>
+    <sequenceDuration>216.842</sequenceDuration>
+    <imageDir></imageDir>
+  </head>
+  <nextid>1</nextid>
+  <ColorPalettes>
+    <ColorPalette>C_BUTTON_Palette1=#FFFF00,C_BUTTON_Palette2=#FF0000,C_BUTTON_Palette3=#FF8040,C_BUTTON_Palette4=#008000,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#008000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1,C_CHECKBOX_Palette3=1,C_CHECKBOX_Palette4=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#008000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette1=1,C_CHECKBOX_Palette2=1</ColorPalette>
+    <ColorPalette>C_BUTTON_Palette1=#008000,C_BUTTON_Palette2=#000000,C_BUTTON_Palette3=#008000,C_BUTTON_Palette4=#00FF00,C_BUTTON_Palette5=#FFFF00,C_BUTTON_Palette6=#000000,C_BUTTON_Palette7=#00FFFF,C_BUTTON_Palette8=#FF00FF,C_CHECKBOX_Palette6=1,C_CHECKBOX_Palette7=1</ColorPalette>
+  </ColorPalettes>
+  <EffectDB>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Open,E_CHOICE_Faces_FaceDefinition=Pumpkin,E_CHOICE_Faces_Phoneme=rest</Effect>
+    <Effect>E_CHECKBOX_Faces_Outline=1,E_CHOICE_Faces_Eyes=Open,E_CHOICE_Faces_FaceDefinition=zombie,E_CHOICE_Faces_Phoneme=rest</Effect>
+    <Effect>E_CHECKBOX_Fan_Blend_Edges=1,E_CHECKBOX_Fan_Reverse=0,E_NOTEBOOK_Fan=Position,E_SLIDER_Fan_Accel=0,E_SLIDER_Fan_Blade_Angle=90,E_SLIDER_Fan_Blade_Width=100,E_SLIDER_Fan_CenterX=50,E_SLIDER_Fan_CenterY=50,E_SLIDER_Fan_Duration=80,E_SLIDER_Fan_Element_Width=100,E_SLIDER_Fan_End_Radius=10,E_SLIDER_Fan_Num_Blades=3,E_SLIDER_Fan_Num_Elements=1,E_SLIDER_Fan_Revolutions=720,E_SLIDER_Fan_Start_Angle=0,E_SLIDER_Fan_Start_Radius=1</Effect>
+    <Effect>E_CHOICE_Plasma_Color=Normal,E_SLIDER_Plasma_Line_Density=1,E_SLIDER_Plasma_Speed=10,E_SLIDER_Plasma_Style=1</Effect>
+    <Effect>E_SLIDER_Snowstorm_Count=50,E_SLIDER_Snowstorm_Length=50,E_SLIDER_Snowstorm_Speed=10</Effect>
+    <Effect>E_CHECKBOX_Fire_GrowWithMusic=0,E_CHOICE_Fire_Location=Bottom,E_SLIDER_Fire_Height=50,E_SLIDER_Fire_HueShift=0,E_TEXTCTRL_Fire_GrowthCycles=0.0</Effect>
+  </EffectDB>
+  <DataLayers>
+    <DataLayer lor_params="3997795" channel_offset="0" num_channels="0" num_frames="0" data="&lt;rendered: erase-mode&gt;" source="&lt;auto-generated&gt;" name="Nutcracker"/>
+  </DataLayers>
+  <DisplayElements>
+    <Element collapsed="0" type="timing" name="New Timing" visible="1" views="Master View" active="1"/>
+    <Element collapsed="0" type="model" name="Matrix-4" visible="1"/>
+  </DisplayElements>
+  <ElementEffects>
+    <Element type="timing" name="New Timing">
+      <EffectLayer/>
+    </Element>
+    <Element type="model" name="Matrix-4">
+      <EffectLayer>
+        <Effect ref="0" name="Faces" startTime="0" endTime="60000" palette="0"/>
+        <Effect ref="1" name="Faces" id="1" startTime="60000" endTime="120400" palette="1"/>
+        <Effect ref="0" name="Faces" id="2" startTime="120400" endTime="140200" palette="0"/>
+        <Effect ref="1" name="Faces" id="3" startTime="140250" endTime="159850" palette="1"/>
+        <Effect ref="0" name="Faces" id="4" startTime="159850" endTime="180000" palette="0"/>
+        <Effect ref="1" name="Faces" id="5" startTime="180000" endTime="206000" palette="1"/>
+      </EffectLayer>
+      <EffectLayer>
+        <Effect ref="2" name="Fan" startTime="100" endTime="19800" palette="2"/>
+        <Effect ref="3" name="Plasma" id="1" startTime="20100" endTime="40000" palette="3"/>
+        <Effect ref="4" name="Snowstorm" id="2" startTime="40100" endTime="50400" palette="3"/>
+        <Effect ref="5" name="Fire" id="3" startTime="50400" endTime="70400" palette="1"/>
+        <Effect ref="2" name="Fan" id="4" startTime="70600" endTime="90300" palette="2"/>
+        <Effect ref="3" name="Plasma" id="5" startTime="90600" endTime="110500" palette="3"/>
+        <Effect ref="4" name="Snowstorm" id="6" startTime="110600" endTime="120900" palette="3"/>
+        <Effect ref="5" name="Fire" id="7" startTime="120900" endTime="140400" palette="1"/>
+        <Effect ref="2" name="Fan" selected="1" id="8" startTime="140600" endTime="160300" palette="2"/>
+        <Effect ref="3" name="Plasma" id="9" startTime="160600" endTime="180500" palette="3"/>
+        <Effect ref="4" name="Snowstorm" id="10" startTime="180600" endTime="190900" palette="3"/>
+        <Effect ref="5" name="Fire" id="11" startTime="190900" endTime="210900" palette="1"/>
+      </EffectLayer>
+    </Element>
+  </ElementEffects>
+  <lastView>0</lastView>
+  <TimingTags>
+    <Tag number="0" position="-1"/>
+    <Tag number="1" position="-1"/>
+    <Tag number="2" position="-1"/>
+    <Tag number="3" position="-1"/>
+    <Tag number="4" position="-1"/>
+    <Tag number="5" position="-1"/>
+    <Tag number="6" position="-1"/>
+    <Tag number="7" position="-1"/>
+    <Tag number="8" position="-1"/>
+    <Tag number="9" position="-1"/>
+  </TimingTags>
+</xsequence>

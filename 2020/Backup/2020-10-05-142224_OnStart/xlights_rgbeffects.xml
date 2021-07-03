@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xrgb>
+  <models>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="10" Hollow="20" Arc="360" LayoutGroup="Default" parm3="2" parm1="4" name="Spinner-4" WorldPosX="852.7661" WorldPosY="277.5166" WorldPosZ="-789.8048" ScaleX="3.1257" ScaleY="3.1257" ScaleZ="1.0000" RotateX="-65.03413391" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Spinner-3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="10" Hollow="20" Arc="360" LayoutGroup="Default" parm3="2" parm1="4" name="Spinner-3" WorldPosX="650.3903" WorldPosY="279.6278" WorldPosZ="-789.8048" ScaleX="3.1257" ScaleY="3.1257" ScaleZ="1.0000" RotateX="-65.03413391" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Spinner-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="10" Hollow="20" Arc="360" LayoutGroup="Default" parm3="2" parm1="4" name="Spinner-2" WorldPosX="456.4366" WorldPosY="276.5536" WorldPosZ="-789.8048" ScaleX="3.1257" ScaleY="3.1257" ScaleZ="1.0000" RotateX="-65.03413391" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Spinner:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Spinner" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" name="Spinner" parm2="10" Hollow="20" Arc="360" LayoutGroup="Default" parm3="2" parm1="4" WorldPosX="283.0016" WorldPosY="278.1509" WorldPosZ="-789.8048" ScaleX="3.1257" ScaleY="3.1257" ScaleZ="1.0000" RotateX="-65.03413391" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Matrix-3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" DisplayAs="Horiz Matrix" LayoutGroup="Default" parm1="3" parm2="50" name="Matrix-3" parm3="5" WorldPosX="1418.8013" WorldPosY="32.9220" WorldPosZ="-418.2323" ScaleX="6.7443" ScaleY="3.3522" ScaleZ="5.4445" RotateX="0.00000000" RotateY="36.19401550" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Matrix-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" name="Matrix-2" DisplayAs="Horiz Matrix" LayoutGroup="Default" parm1="3" parm2="50" parm3="5" WorldPosX="1180.1160" WorldPosY="36.5732" WorldPosZ="-414.2600" ScaleX="6.7443" ScaleY="3.8560" ScaleZ="5.4445" RotateX="0.00000000" RotateY="-28.87694359" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Matrix:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="50" name="Matrix" DisplayAs="Horiz Matrix" LayoutGroup="Default" parm1="5" parm3="2" WorldPosX="1293.7900" WorldPosY="30.0954" WorldPosZ="-383.6176" ScaleX="5.8288" ScaleY="4.7582" ScaleZ="2.0417" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Arches-6:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Star" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm1="1" name="Star" parm3="5" LayoutGroup="Default" LayerSizes="60,40" parm2="100" WorldPosX="1298.5208" WorldPosY="409.5488" WorldPosZ="-509.4887" ScaleX="1.3851" ScaleY="1.3212" ScaleZ="0.0167" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm1="3" name="Arches-6" parm2="30" Gap="20" WorldPosX="1034.9147" WorldPosY="2.0442" WorldPosZ="-640.5267" X2="17.932739" Y2="1.000000" Z2="396.624512" RotateX="0.00000000" Height="0.891150" Angle="0" versionNumber="5" StartChannel="&gt;Arches-5:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" LayoutGroup="Default" parm1="3" name="Arches-5" parm2="40" Gap="10" WorldPosX="1035.1068" WorldPosY="0.0982" WorldPosZ="-651.1252" X2="17.932739" Y2="1.000000" Z2="417.735260" RotateX="0.00000000" Height="0.891150" Angle="0" versionNumber="5" StartChannel="&gt;Arches-4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm2="50" parm3="1" name="Arches-4" LayoutGroup="Default" parm1="3" WorldPosX="1034.4811" WorldPosY="0.0000" WorldPosZ="-658.3175" X2="17.932739" Y2="1.000000" Z2="431.972473" RotateX="0.00000000" Height="0.914236" Angle="0" versionNumber="5" StartChannel="&gt;Boscoyo ChromaFlake 24 3 prong-4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,,,,,,,,29,,,28,,,,,,,,22,,,,21,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,27,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,30,,,,,,,,,,,,,,,19,,,,20,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,31,,,,,,,,,,23,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,26,,,,,,,,18,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,32,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,25,,24,,,,,,,,,,,,,,;,,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,,;,,,,,,,,,,,,,33,,,,,,,,17,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;37,,,35,,,39,,,34,,40,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,16,,10,,,15,,,11,,,13;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,41,,,,,,,,9,,,,,,,,,,,,,;,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,,;,,,,,,,,,,,,,,48,,1,,,8,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,42,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,47,,,,,,,,,,,7,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,44,,,,,,,,,,,,,,,,,,,,,6,,,,,,;,,,,,,,,,43,,,,,,,,,,,,,,3,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,45,,,,46,,,,,,,,,,4,,,5,,,,,,,,," parm1="34" parm2="32" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="48" PixelType="12mm square" PixelSpacing="" name="Boscoyo ChromaFlake 24 3 prong-4" WorldPosX="1600.3612" WorldPosY="211.2699" WorldPosZ="-237.7809" ScaleX="1.5550" ScaleY="1.3551" ScaleZ="1.5550" RotateX="161.77645874" RotateY="-71.31911469" RotateZ="-0.00000267" versionNumber="5" StartChannel="&gt;Boscoyo ChromaFlake 24 3 prong-3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,,,,,,,,29,,,28,,,,,,,,22,,,,21,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,27,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,30,,,,,,,,,,,,,,,19,,,,20,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,31,,,,,,,,,,23,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,26,,,,,,,,18,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,32,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,25,,24,,,,,,,,,,,,,,;,,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,,;,,,,,,,,,,,,,33,,,,,,,,17,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;37,,,35,,,39,,,34,,40,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,16,,10,,,15,,,11,,,13;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,41,,,,,,,,9,,,,,,,,,,,,,;,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,,;,,,,,,,,,,,,,,48,,1,,,8,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,42,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,47,,,,,,,,,,,7,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,44,,,,,,,,,,,,,,,,,,,,,6,,,,,,;,,,,,,,,,43,,,,,,,,,,,,,,3,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,45,,,,46,,,,,,,,,,4,,,5,,,,,,,,," parm1="34" parm2="32" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="48" PixelType="12mm square" PixelSpacing="" name="Boscoyo ChromaFlake 24 3 prong-3" WorldPosX="1569.9952" WorldPosY="213.6440" WorldPosZ="-299.9583" ScaleX="1.5550" ScaleY="1.3551" ScaleZ="1.5550" RotateX="161.77635193" RotateY="-86.42581940" RotateZ="-0.00004109" versionNumber="5" StartChannel="&gt;Boscoyo ChromaFlake 24 3 prong-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,,,,,,,,29,,,28,,,,,,,,22,,,,21,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,27,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,30,,,,,,,,,,,,,,,19,,,,20,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,31,,,,,,,,,,23,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,26,,,,,,,,18,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,32,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,25,,24,,,,,,,,,,,,,,;,,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,,;,,,,,,,,,,,,,33,,,,,,,,17,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;37,,,35,,,39,,,34,,40,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,16,,10,,,15,,,11,,,13;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,41,,,,,,,,9,,,,,,,,,,,,,;,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,,;,,,,,,,,,,,,,,48,,1,,,8,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,42,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,47,,,,,,,,,,,7,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,44,,,,,,,,,,,,,,,,,,,,,6,,,,,,;,,,,,,,,,43,,,,,,,,,,,,,,3,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,45,,,,46,,,,,,,,,,4,,,5,,,,,,,,," parm1="34" parm2="32" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="48" PixelType="12mm square" PixelSpacing="" name="Boscoyo ChromaFlake 24 3 prong-2" WorldPosX="1560.8711" WorldPosY="214.4040" WorldPosZ="-370.7475" ScaleX="1.5550" ScaleY="1.3551" ScaleZ="1.5550" RotateX="161.77664185" RotateY="-86.42636871" RotateZ="-0.00012328" versionNumber="5" StartChannel="&gt;Boscoyo ChromaFlake 24 3 prong:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Custom" StartSide="B" Dir="L" parm3="1" LayoutGroup="Default" CustomModel=",,,,,,,,,,29,,,28,,,,,,,,22,,,,21,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,27,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,30,,,,,,,,,,,,,,,19,,,,20,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,31,,,,,,,,,,23,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,26,,,,,,,,18,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,32,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,25,,24,,,,,,,,,,,,,,;,,36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,,;,,,,,,,,,,,,,33,,,,,,,,17,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;37,,,35,,,39,,,34,,40,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,16,,10,,,15,,,11,,,13;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,41,,,,,,,,9,,,,,,,,,,,,,;,,38,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12,,;,,,,,,,,,,,,,,48,,1,,,8,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,42,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,47,,,,,,,,,,,7,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,44,,,,,,,,,,,,,,,,,,,,,6,,,,,,;,,,,,,,,,43,,,,,,,,,,,,,,3,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,,,,45,,,,46,,,,,,,,,,4,,,5,,,,,,,,," parm1="34" parm2="32" Depth="1" StringType="RGB Nodes" PixelSize="2" Transparency="0" ModelBrightness="" Antialias="1" StrandNames="" NodeNames="" PixelCount="48" PixelType="12mm square" PixelSpacing="" name="Boscoyo ChromaFlake 24 3 prong" WorldPosX="1560.2179" WorldPosY="218.6402" WorldPosZ="-442.5728" ScaleX="1.5550" ScaleY="1.3551" ScaleZ="1.5550" RotateX="-18.22338676" RotateY="-86.06472778" RotateZ="1.47865844" versionNumber="5" StartChannel="&gt;Arches-3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Tree" LayoutGroup="Default" TreePerspective="0.090000" parm1="30" parm2="50" DisplayAs="Tree 220" WorldPosX="1299.2959" WorldPosY="211.2677" WorldPosZ="-504.1251" ScaleX="2.5473" ScaleY="2.1012" ScaleZ="2.5473" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="1">
+      <faceInfo Name="Tree" Mouth-AI-EyesClosed="" Mouth-AI-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_AI_eo.jpg" Mouth-E-EyesClosed="" Mouth-E-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_E_eo.jpg" Mouth-FV-EyesClosed="" Mouth-FV-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_FV_eo.jpg" Mouth-L-EyesClosed="" Mouth-L-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_L_eo.jpg" Mouth-MBP-EyesClosed="" Mouth-MBP-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_MBP_eo.jpg" Mouth-O-EyesClosed="" Mouth-O-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_O_eo.jpg" Mouth-U-EyesClosed="" Mouth-U-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_U_eo.jpg" Mouth-WQ-EyesClosed="" Mouth-WQ-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_WQ_eo.jpg" Mouth-etc-EyesClosed="" Mouth-etc-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_etc_eo.jpg" Mouth-rest-EyesClosed="D:\Christmas\2020/DownloadedFaces/Snowman01_rest_ec.jpg" Mouth-rest-EyesOpen="D:\Christmas\2020/DownloadedFaces/Snowman01_rest_eo.jpg" Type="Matrix"/>
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Arches" LayoutGroup="Default" Gap="0" parm1="4" parm2="50" WorldPosX="1059.7893" WorldPosY="6.0680" WorldPosZ="-222.9775" X2="522.263306" Y2="-2.828774" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" versionNumber="5" StartChannel="&gt;Tree-5:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Arches-2" LayoutGroup="Default" parm1="4" Gap="10" parm2="40" WorldPosX="1066.4930" WorldPosY="7.1797" WorldPosZ="-222.9775" X2="508.437012" Y2="-4.546300" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" versionNumber="5" StartChannel="&gt;Arches:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model DisplayAs="Arches" StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Arches-3" LayoutGroup="Default" parm2="30" parm1="4" Gap="15" WorldPosX="1072.5244" WorldPosY="6.0631" WorldPosZ="-222.9775" X2="496.247925" Y2="-4.904937" Z2="0.000000" RotateX="0.00000000" Height="1.000000" Angle="0" versionNumber="5" StartChannel="&gt;Arches-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" DisplayAs="Tree 360" LayoutGroup="Default" name="Tree-5" TreeSpiralRotations="5.000000" parm1="1" parm2="100" WorldPosX="1310.0000" WorldPosY="50.0000" WorldPosZ="-11.0000" ScaleX="0.3880" ScaleY="0.3090" ScaleZ="0.3630" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree-4:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" DisplayAs="Tree 360" LayoutGroup="Default" name="Tree-4" parm1="1" parm2="100" TreeSpiralRotations="5.000000" WorldPosX="1240.0000" WorldPosY="50.0000" WorldPosZ="-11.0000" ScaleX="0.3880" ScaleY="0.3090" ScaleZ="0.3630" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree-3:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" DisplayAs="Tree 360" LayoutGroup="Default" name="Tree-3" TreeSpiralRotations="5.000000" parm1="1" parm2="100" WorldPosX="1170.0000" WorldPosY="50.0000" WorldPosZ="-11.0000" ScaleX="0.3880" ScaleY="0.3090" ScaleZ="0.3630" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Tree-2:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+    <model StringType="RGB Nodes" StartSide="B" Dir="L" Antialias="1" PixelSize="2" Transparency="0" parm3="1" name="Tree-2" LayoutGroup="Default" TreeSpiralRotations="5.000000" parm1="1" parm2="100" DisplayAs="Tree 360" WorldPosX="1100.0000" WorldPosY="50.0000" WorldPosZ="-11.0000" ScaleX="0.3881" ScaleY="0.3093" ScaleZ="0.3630" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5" StartChannel="&gt;Star:1">
+      <ControllerConnection Protocol="ws2811"/>
+    </model>
+  </models>
+  <view_objects>
+    <view_object name="Image-2" DisplayAs="Image" LayoutGroup="Default" Image="D:\Downloads\20200917_141017.jpg" Transparency="50" Active="0" WorldPosX="1338.5427" WorldPosY="225.3833" WorldPosZ="-785.7664" ScaleX="0.3000" ScaleY="0.3000" ScaleZ="1.0000" RotateX="0.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+    <view_object name="Mesh" DisplayAs="Mesh" LayoutGroup="Default" ObjFile="D:\Downloads\Dazzling Leelo-Densor\tinker.obj" Active="1" Brightness="30" WorldPosX="928.7798" WorldPosY="0.0000" WorldPosZ="-915.0000" ScaleX="10.0000" ScaleY="10.0000" ScaleZ="10.0000" RotateX="-90.00000000" RotateY="0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+    <view_object name="Image" DisplayAs="Image" LayoutGroup="Default" Image="D:\Downloads\Dazzling Leelo-Densor\Screenshot 2020-09-22 102336.jpg" Active="1" Brightness="30" WorldPosX="1000.0000" WorldPosY="0.0000" WorldPosZ="-1000.0000" ScaleX="5.0000" ScaleY="5.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="180.00000000" RotateZ="0.00000000" versionNumber="5"/>
+    <view_object DisplayAs="Gridlines" LayoutGroup="Default" name="Gridlines" GridLineSpacing="50" GridHeight="1000.0" GridWidth="4000" Active="0" WorldPosX="0.0000" WorldPosY="0.0000" WorldPosZ="0.0000" ScaleX="1.0000" ScaleY="1.0000" ScaleZ="1.0000" RotateX="-90.00000000" RotateY="-0.00000000" RotateZ="0.00000000" versionNumber="5"/>
+  </view_objects>
+  <effects version="0006"/>
+  <views/>
+  <palettes/>
+  <modelGroups>
+    <modelGroup selected="0" name="All" LayoutGroup="Default" models="Star,Tree,Tree-2,Tree-3,Tree-4,Tree-5,Arches,Arches-2,Arches-3,Arches-4,Arches-5,Arches-6,Boscoyo ChromaFlake 24 3 prong,Boscoyo ChromaFlake 24 3 prong-2,Boscoyo ChromaFlake 24 3 prong-3,Boscoyo ChromaFlake 24 3 prong-4,Archess,Matrix,Matrix-2,Matrix-3,Snowflakes,Trees" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid"/>
+    <modelGroup selected="0" name="Trees" LayoutGroup="Default" models="Tree,Tree-2,Tree-3,Tree-4,Tree-5" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid"/>
+    <modelGroup selected="0" name="Snowflakes" LayoutGroup="Default" models="Boscoyo ChromaFlake 24 3 prong,Boscoyo ChromaFlake 24 3 prong-2,Boscoyo ChromaFlake 24 3 prong-3,Boscoyo ChromaFlake 24 3 prong-4" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid"/>
+    <modelGroup selected="0" name="Archess" LayoutGroup="Default" models="Arches,Arches-2,Arches-3,Arches-4,Arches-5,Arches-6" GridSize="400" XCentreOffset="0" YCentreOffset="0" layout="minimalGrid"/>
+  </modelGroups>
+  <layoutGroups>
+    <layoutGroup name="Yard" backgroundImage="D:\Downloads\20200917_141017.jpg" backgroundBrightness="30" backgroundAlpha="100" PaneWidth="1280" PaneHeight="720" PosX="-592" PosY="754"/>
+  </layoutGroups>
+  <perspectives current="Default Perspective">
+    <perspective name="Default Perspective" settings="layout2|name=ModelPreview;caption=Model Preview;state=6293502;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=HousePreview;caption=House Preview;state=6359036;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectAssist;caption=Effect Assist;state=1075841022;dir=4;layer=1;row=0;pos=2;prop=100000;bestw=250;besth=250;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=DisplayElements;caption=Display Elements;state=6293503;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=600;besth=400;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=32;floaty=32;floatw=600;floath=400|name=Perspectives;caption=Perspectives;state=1075841022;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=197;besth=157;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Effect;caption=Effect Settings;state=2099198;dir=4;layer=0;row=1;pos=0;prop=100000;bestw=442;besth=864;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SelectEffect;caption=Select Effects;state=1075841022;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=436;besth=276;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=EffectDropper;caption=Effects;state=1075841022;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=1080;besth=720;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ValueCurveDropper;caption=Value Curves;state=1075841022;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=40;besth=40;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=ColourDropper;caption=Colours;state=1075841022;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=20;besth=20;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Jukebox;caption=Jukebox;state=1075841022;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=100;besth=200;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Color;caption=Color;state=2099198;dir=1;layer=0;row=0;pos=0;prop=100000;bestw=390;besth=409;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerTiming;caption=Layer Blending;state=2099198;dir=1;layer=0;row=0;pos=1;prop=100000;bestw=315;besth=335;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=LayerSettings;caption=Layer Settings;state=2099198;dir=1;layer=0;row=0;pos=2;prop=100000;bestw=323;besth=473;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=SequenceVideo;caption=Sequence Video;state=2099199;dir=4;layer=0;row=0;pos=0;prop=100000;bestw=320;besth=225;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=32;floaty=32;floatw=338;floath=272|name=Main Sequencer;caption=Main Sequencer;state=770;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=142;besth=62;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(4,1,0)=252|" version="2.0"/>
+  </perspectives>
+  <settings>
+    <backgroundImage value="D:\Downloads\20200917_141017.jpg"/>
+    <backgroundAlpha value="100"/>
+    <scaleImage value="1"/>
+    <backgroundBrightness value="30"/>
+    <storedLayoutGroup value="Default"/>
+    <previewWidth value="1280"/>
+    <previewHeight value="720"/>
+  </settings>
+  <colors>
+    <EffectDefault Red="192" Green="192" Blue="192"/>
+    <EffectSelected Red="204" Green="102" Blue="255"/>
+    <EffectSelectedFixed Red="255" Green="128" Blue="0"/>
+    <EffectSelectedLocked Red="200" Green="0" Blue="0"/>
+    <GridDashes Red="255" Green="255" Blue="0"/>
+    <Gridlines Red="40" Green="40" Blue="40"/>
+    <LabelOutline Red="103" Green="103" Blue="103"/>
+    <Labels Red="255" Green="255" Blue="204"/>
+    <LayoutDashes Red="255" Green="255" Blue="0"/>
+    <ModelDefault Red="211" Green="211" Blue="211"/>
+    <ModelOverlap Red="255" Green="0" Blue="0"/>
+    <ModelSelected Red="255" Green="255" Blue="0"/>
+    <Phonemes Red="255" Green="181" Blue="218"/>
+    <Phrases Red="153" Green="255" Blue="153"/>
+    <ReferenceEffect Red="255" Green="0" Blue="255"/>
+    <ReferenceEffectLocked Red="255" Green="0" Blue="0"/>
+    <RowHeaderSelected Red="130" Green="178" Blue="207"/>
+    <Timing1 Red="0" Green="255" Blue="255"/>
+    <Timing2 Red="255" Green="0" Blue="0"/>
+    <Timing3 Red="0" Green="255" Blue="0"/>
+    <Timing4 Red="0" Green="0" Blue="255"/>
+    <Timing5 Red="255" Green="255" Blue="0"/>
+    <TimingDefault Red="255" Green="255" Blue="255"/>
+    <Waveform Red="130" Green="178" Blue="207"/>
+    <WaveformSelected Red="0" Green="0" Blue="200"/>
+    <WaveformSelectedEffect Red="255" Green="128" Blue="0"/>
+    <Words Red="255" Green="218" Blue="145"/>
+  </colors>
+  <Viewpoints>
+    <Camera name="Middle" posX="0.000000" posY="0.000000" posZ="0.000000" angleX="19.000000" angleY="11.000000" distance="-2000.000000" zoom="0.850314" panx="-1066.056030" pany="197.041428" panz="484.984955" zoom_corrx="0.000000" zoom_corry="0.000000" is_3d="1"/>
+    <Camera name="Front" posX="0.000000" posY="0.000000" posZ="0.000000" angleX="18.000000" angleY="354.000000" distance="-2000.000000" zoom="0.850314" panx="-1066.056030" pany="197.041428" panz="484.984955" zoom_corrx="0.000000" zoom_corry="0.000000" is_3d="1"/>
+  </Viewpoints>
+</xrgb>

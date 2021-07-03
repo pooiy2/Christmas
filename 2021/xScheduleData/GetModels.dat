@@ -1,0 +1,1 @@
+{"models":[{"name":"Matrix","type":"Matrix","startchannel":"1","channels":"9000","stringtype":"RGB Nodes"},{"name":"Sphere","type":"Sphere","startchannel":"9001","channels":"6000","stringtype":"RGB Nodes"}]}
